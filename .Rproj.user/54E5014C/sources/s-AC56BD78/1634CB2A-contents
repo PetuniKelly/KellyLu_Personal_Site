@@ -1,0 +1,52 @@
+---
+authors:
+- admin
+bio: My research interests include distributed robotics, mobile computing and programmable
+  matter.
+education:
+  courses:
+  - course: MSc in Information Technology and Web Science
+    institution: Rensselear Polytechnic Institute
+    year: 2022
+  - course: MSc in Biostatistics
+    institution: State University of New York at Albany
+    year: 2010
+  - course: BSc in Biotechnology
+    institution: China Pharmaceutical University
+    year: 2007
+email: ""
+interests:
+- Data science (with R)
+- Data visualization
+- Hot Yoga
+- Ski
+- True crime shows
+name: Zengqi (Kelly) Lu
+organizations:
+- name: Sema4
+  url: "https://sema4.com/"
+role: Data Scientist
+social:
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/KellyLu53935950
+- icon: weixin
+  icon_pack: fab
+  link: weixin://dl/chat?{kelly390010}
+- icon: github
+  icon_pack: fab
+  link: https://github.com/PetuniKelly
+superuser: true
+user_groups:
+- Researchers
+- Visitors
+---
+
+I am a Data Scientist at SEMA4, where I work to analyze Electronic Medical Records (EMR) data to help gain insight on oncology drugs and guide cancer treatment.
+
+I am currently pursuing a second Master degree in Information Technology and Web Science at Rensselear Politechnic Institute (RPI) as a part-time student.
+
+I love R, data visualization and data story-telling. My personal goal of 2019 is to improve my presentation and communication skills to better present the data analysis results in a clear and easy-to-understand way.
